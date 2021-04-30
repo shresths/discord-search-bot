@@ -35,7 +35,7 @@ pyasn1-modules==0.2.7
 python-firebase==1.2
 pytz==2019.3
 requests==2.22.0
-rsa==4.0
+rsa==4.7
 search-google==1.2.1
 six==1.12.0
 typing-extensions==3.7.4.1
